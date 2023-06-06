@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/rsz_hum2.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.aturbg {
+    display: flex;
+    flex-direction: row;
+    padding-top: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bgnnya {
+    width: 300px;
+    height: 380px;
+    background-image: url(../img/rsz_hum2.jpg);
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+}
+
+.bglgi {
+    width: 690px;
+    height: 420px;
+    border-top: 1px solid #f0eeee;
+    background-color: #ffffff;
+    border-radius: 20px;
+
+
+}
+
+.rowbg {
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.kananisi {
+    padding-left: 30px;
+}
+
+.top-input {
+    display: none;
+}
+
+.kananisi {
+
+    color: #3b3939;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.bgnys {
+    background-image: url(../img/rsz_bgklr2.jpg);
+    width: 280px;
+    height: 280px;
+    background-position: center;
+    background-size: cover;
+}
+
+.row-lg {
+    padding-left: 5px;
+}
+
+.submit-type {
+    padding-left: 40px;
+}
+
+.submit-type input {
+    width: 130px;
+    height: 38px;
+    background-color: #4070f4;
+    border: none;
+    color: #fff;
+    border-radius: 20px;
+}
+
+.submit-type input:hover {
+    width: 130px;
+    height: 38px;
+    background-color: none;
+    border: 1px solid #aca4a4;
+    color: #777171;
+    border-radius: 20px;
+    background: none;
+}
+
+.submit-type input::placeholder {
+    color: #645d5d;
+}
+
+.row-lg {
+    display: flex;
+    flex-direction: row;
+}
+
+.testt a {
+    text-decoration: none;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12px;
+}
+
+.testt a:hover {
+    text-decoration: none;
+    color: #554f4f;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 12px;
+}
+
+.testt {
+    width: 120px;
+    height: 38px;
+    background-color: #4070f4;
+    border-radius: 20px;
+
+}
+
+.testt:hover {
+    width: 120px;
+    height: 38px;
+    background-color: none;
+    border: 1px solid #777171;
+    border-radius: 20px;
+    background: none;
+}

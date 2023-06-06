@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,600;1,500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    user-select: none;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/rsz_upload.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.text-tngh {
+    padding-left: 130px;
+    padding-top: 60px;
+}
+
+.txt-inpt input {
+    width: 190px;
+    height: 40px;
+
+}
+
+.txt-inpt {
+    padding-top: 20px;
+}
+
+.judul {
+
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 600;
+    color: #3d3939;
+}
+
+.submitt input {
+    width: 170px;
+    height: 38px;
+    outline: none;
+    border: 1px solid #4070f4;
+    color: #2e332f;
+    border-radius: 12px;
+    cursor: pointer;
+    background: none;
+}
+
+
+.submitt input:hover {
+    width: 170px;
+    height: 38px;
+    outline: none;
+    border: none;
+    background-color: #4070f4;
+    color: #fff;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.border-hias {
+    width: 182px;
+    height: 52px;
+    border: none;
+    border-radius: 12px;
+}
+
+.border-hias:hover {
+    width: 182px;
+    height: 52px;
+    border: 1px solid rgb(14, 131, 167);
+    border-radius: 12px;
+}
+
+.aturlg {
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-brdr {
+    width: 500px;
+    height: 250px;
+    background: none;
+    border-radius: 15px;
+}
+
+.wrapper-brdr:hover {
+    width: 500px;
+    height: 250px;
+    background-color: #fff;
+    border-radius: 15px;
+    transition: all 0.5s ease-in-out;
+}
+
+.wrapper {
+    padding-left: 210px;
+    padding-top: 50px;
+}
+
+.atr-wrpper {
+    padding-left: 30px;
+}
+
+.borderback {
+    width: 40px;
+    height: 40px;
+    background-color: #fdfcfc;
+    border-radius: 50%;
+}
+
+.borderback:hover {
+    width: 40px;
+    height: 40px;
+    background: none;
+    border-radius: 50%;
+    border: 1px solid #fff;
+}
+
+.icon {
+    font-size: 25px;
+    color: #858080;
+}
+
+.icon:hover {
+    font-size: 25px;
+    color: #fff8f8;
+}
+
+
+.aturbck {
+    padding-left: 7px;
+    padding-top: 6px;
+}
+
+.ataslg {
+    padding-left: 30px;
+    padding-top: 40px;
+}
+
+.eror {
+    padding-top: 20px;
+    padding-left: 180px;
+}

@@ -1,0 +1,19 @@
+.nameform {
+    color: rgb(255, 16, 16);
+}
+
+.box-pl {
+    padding-top: 5px;
+}
+
+.box-tmplt {
+    width: 340px;
+    height: 40px;
+    border-bottom: 2px solid #dad1d1;
+
+}
+
+.atur-box {
+    padding-left: 10px;
+    padding-top: 8px;
+}

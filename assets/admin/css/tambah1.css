@@ -1,0 +1,79 @@
+.info {
+    padding-top: 20px;
+    padding-left: 90px;
+}
+
+.border-formi {
+    width: 600px;
+    height: 600px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px -1px rgb(192, 187, 187);
+    border-radius: 20px;
+}
+
+.text-add {
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-add h4 {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.garitsnya {
+    width: 600px;
+    height: 1px;
+    background-color: #aca7a7;
+}
+
+.garisss {
+    padding-top: 10px;
+}
+
+.form-add {
+    padding-left: 320px;
+    padding-top: 30px;
+}
+
+.border-toper {
+    padding-top: 60px;
+    padding-left: 70px;
+}
+
+.bordernyae input {
+    width: 450px;
+    height: 40px;
+    outline: none;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
+
+.bordernyae input:hover {
+    width: 450px;
+    height: 40px;
+    outline: none;
+    border: none;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px -1px rgb(192, 187, 187);
+    border-top: 1px solid #f3f0f0;
+}
+
+.submit-inpuit {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit-inpuit input {
+    width: 250px;
+    height: 40px;
+    background-color: #4070f4;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+}

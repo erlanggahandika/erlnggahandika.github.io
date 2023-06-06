@@ -1,0 +1,41 @@
+.isicontent {
+    padding-top: 10px;
+    font-size: 17px;
+    font-weight: 600;
+    color: #837d7d;
+    padding-left: 15px;
+}
+
+.text-admin h4 {
+    color: #4070f4;
+}
+
+.footer-bawah {
+    width: 100%;
+    height: 50px;
+    background-color: aqua;
+}
+
+.footer-bawah p {
+    color: red;
+    font-size: 25px;
+}
+
+.call-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: #554f4f;
+    padding-left: 10px;
+    user-select: none;
+}
+
+.date-user p {
+    color: rgb(85, 82, 82);
+    font-size: 15px;
+    user-select: none;
+}
+
+.row-noted {
+    padding-left: 15px;
+    font-family: 15px;
+}

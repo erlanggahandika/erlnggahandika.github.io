@@ -1,0 +1,40 @@
+.link {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.border-link {
+    width: 160px;
+    height: 40px;
+    background-color: #117fe6;
+
+    border-radius: 8px;
+}
+
+.border-link:hover {
+    width: 160px;
+    height: 40px;
+    background-color: none;
+    border: 1px solid yellow;
+    border-radius: 8px;
+    background: none;
+}
+
+.aturats {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3px;
+}
+
+.aturats i {
+    padding-left: 8px;
+    font-size: 17px;
+    padding-top: 6px;
+}
+
+.aturats a {
+    color: #fff;
+}

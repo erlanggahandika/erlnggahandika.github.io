@@ -1,0 +1,126 @@
+.template-cont {
+    width: 800px;
+    height: 1980px;
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px -1px rgb(185, 181, 181);
+    padding-top: 1px solid #c2bfbf;
+}
+
+.form-container {
+    padding-top: 10px;
+    padding-left: 280px;
+}
+
+.jarak-atas h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 19px;
+    font-size: 23px;
+    color: #4b4747;
+}
+
+.garisnyata {
+    width: 800px;
+    height: 1px;
+    background-color: #d8d2d2;
+}
+
+.jarak-gariss {
+    padding-top: 15px;
+}
+
+.form-input {
+    padding-top: 60px;
+    padding-left: 30px;
+}
+
+.form-input2 {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.form-ke1 input {
+
+    width: 350px;
+    height: 40px;
+    outline: none;
+    background: none;
+    border: none;
+    border-bottom: 1px solid #949191;
+
+}
+
+.form-ke1 input:hover {
+    width: 350px;
+    height: 40px;
+    outline: none;
+    background: none;
+    border: 1px solid rgb(253, 176, 33);
+    border-radius: 6px;
+
+}
+
+.form-ke1 textarea:hover {
+    outline: none;
+    background: none;
+    border: 1px solid rgb(253, 176, 33);
+    border-radius: 6px;
+}
+
+.form-ketr input {
+    width: 350px;
+    height: 40px;
+    outline: none;
+    background: none;
+    border: none;
+    border-bottom: none;
+    border-top: 1px solid #e7e4e4;
+    background-color: #e6e4e4;
+    box-shadow: 0 4px 6px -1px rgb(206, 202, 202);
+    border-radius: 6px;
+
+}
+
+.form-ke1 h4 {
+    font-size: 16px;
+    color: #3d3d3d;
+    font-weight: 600;
+}
+
+.form-ketr h4 {
+    font-size: 16px;
+    color: #3d3d3d;
+    font-weight: 600;
+}
+
+.kananin-lg {
+    padding-left: 45px;
+}
+
+.button-savve {
+    padding-top: 40px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.button-savve input {
+    width: 300px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: #4070f4;
+    border-radius: 20px;
+}
+
+.button-savve input:hover {
+    width: 300px;
+    height: 40px;
+    border: 1px solid #e78e19;
+    outline: none;
+    background-color: none;
+    border-radius: 8px;
+    background: none;
+}

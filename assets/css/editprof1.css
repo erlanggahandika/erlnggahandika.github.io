@@ -1,0 +1,45 @@
+.nameform {
+    color: rgb(255, 16, 16);
+}
+
+.box-pl {
+    padding-top: 5px;
+}
+
+.box-tmplt {
+    width: 340px;
+    height: 40px;
+    border-bottom: 2px solid #dad1d1;
+
+}
+
+.atur-box {
+    padding-left: 10px;
+    padding-top: 8px;
+}
+
+.img-user {
+    padding-top: 5px;
+}
+
+.img-user img {
+    width: 120px;
+    height: 160px;
+    border-radius: 5px;
+}
+
+.pt--high {
+    padding-top: 30px;
+}
+
+.pt-lgi {
+    padding-left: 35px;
+}
+
+/* .disply-form {
+    padding-left: 30px;
+} */
+
+.ptt-img {
+    padding-left: 250px;
+}

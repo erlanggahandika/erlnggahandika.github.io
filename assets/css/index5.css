@@ -1,0 +1,13 @@
+.named-class {
+    padding-top: 20px;
+}
+
+.named-class p {
+
+    font-size: 16px;
+    color: #6d6c6c;
+}
+
+.span-atmin {
+    color: #4070f4;
+}

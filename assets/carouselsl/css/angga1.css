@@ -1,0 +1,91 @@
+.textapp {
+    color: rgb(44, 118, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.textapp h2 {
+    font-size: 37px;
+    font-weight: 700;
+}
+
+.app-clr {
+    color: rgb(31, 210, 255);
+}
+
+.border-back {
+    width: 40px;
+    height: 35px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 50%;
+    box-shadow: 0 4px 6px -1px rgb(211, 208, 208);
+}
+
+.atur-back {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4px;
+}
+
+.rowbck {
+    font-size: 25px;
+
+}
+
+.border-text {
+    width: 200px;
+    height: 42px;
+    background-color: #4070f4;
+    border: 2px solid #4070f4;
+    border-radius: 20px;
+}
+
+
+.border-text:hover {
+    width: 200px;
+    height: 42px;
+    background: none;
+    border: 2px solid #858585;
+    border-radius: 20px;
+    color: #524f4f;
+}
+
+.atur-text a {
+    color: #fff;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.atur-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6px;
+}
+
+.atur-text a:hover {
+    width: 205px;
+    height: 44px;
+    background: none;
+    border: none;
+    border-radius: none;
+    color: #524f4f;
+    font-weight: 600;
+    font-size: 15px;
+    padding-left: 80px;
+    transition: 0.2s all ease-in-out;
+}
+
+.text-copy {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.back-logo {
+    padding-top: 30px;
+}

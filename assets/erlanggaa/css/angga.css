@@ -1,0 +1,23 @@
+.border-input {
+    width: 190px;
+    height: 40px;
+    border-radius: 6px;
+    background: none;
+    border: 2px solid #525151;
+    outline: none;
+    color: none;
+}
+
+.border-input:hover {
+    width: 190px;
+    height: 40px;
+    border-radius: 6px;
+    background: none;
+    border: 2px solid #ff0000;
+    outline: none;
+    color: none;
+}
+
+.border-input {
+    color: rgb(255, 200, 50);
+}

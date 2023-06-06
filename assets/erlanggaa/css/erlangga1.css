@@ -1,0 +1,74 @@
+.border-star {
+    width: 190px;
+    height: 40px;
+    border: 2px solid #fff;
+    border-radius: 20px;
+}
+
+.border-star:hover {
+    width: 190px;
+    height: 40px;
+    border: 2px solid #ffbe0a;
+    border-radius: 20px;
+    transition: all 0.3s ease-in-out;
+}
+
+.atur-start {
+    padding-top: 4px;
+}
+
+/* untuk hp cuy , jangan salaah dih */
+@media only screen and (max-width: 600px) {
+    .lets-star {
+        padding-top: 30px;
+        padding-left: 87px;
+    }
+
+    .border-star {
+        width: 190px;
+        height: 40px;
+        border: 2px solid #fff;
+        border-radius: 20px;
+    }
+
+    .border-star:hover {
+        width: 190px;
+        height: 40px;
+        border: 2px solid #ffbe0a;
+        border-radius: 20px;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .atur-start {
+        padding-top: 4px;
+    }
+
+}
+
+/* ini buat laptopnya , jangan salah */
+@media only screen and (min-width: 992px) {
+    .lets-star {
+        padding-top: 30px;
+        padding-left: 165px;
+    }
+
+    .border-star {
+        width: 190px;
+        height: 40px;
+        border: 2px solid #fff;
+        border-radius: 20px;
+    }
+
+    .border-star:hover {
+        width: 190px;
+        height: 40px;
+        border: 2px solid #ffbe0a;
+        border-radius: 20px;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .atur-start {
+        padding-top: 4px;
+    }
+
+}

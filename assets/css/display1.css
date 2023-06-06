@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-image: url(../carousel/images/slider-1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.button-start {
+    padding-top: 40px;
+}
+
+.border-button {
+    width: 200px;
+    height: 43px;
+    border-radius: 20px;
+    background-color: rgb(0, 255, 136);
+    border: 2px solid rgb(0, 255, 136);
+}
+
+.border-button:hover {
+    width: 200px;
+    height: 43px;
+    border-radius: 20px;
+    background: none;
+    border: 2px solid #ffffff;
+}
+
+.atur-button a {
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 4px;
+}
+
+.best-of {
+    font-size: 25px;
+    color: #fff;
+    font-weight: 700;
+
+}
+
+.best-of h4 {
+    display: flex;
+
+    padding-top: 20px;
+}
+
+.judul-ct {
+    font-size: 50px;
+    font-weight: 900;
+    color: #ffffff;
+}
+
+.ria {
+    color: rgb(255, 255, 255);
+}
+
+
+
+.best-of p {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.text-copy {
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 130px;
+    color: #fff;
+}
+
+.row {
+    padding-left: 6px;
+    font-size: 20px;
+    padding-top: 4px;
+}
+
+/* ini buat laptopnya , jangan salah */
+@media only screen and (min-width: 992px) {
+    .container {
+        width: 100%;
+        height: 100vh;
+        background-image: url(../carousel/images/hero-bg.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .best-of p {
+        color: #fff;
+        font-size: 15px;
+        font-weight: 800;
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+
+    .best-of h4 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 26px;
+        font-weight: 600;
+        padding-top: 178px;
+    }
+
+    .judul-ct {
+        font-size: 50px;
+        font-weight: 900;
+        color: #1150ff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        line-height: 90px;
+    }
+
+    .ria {
+        color: rgb(42, 195, 255);
+    }
+
+    .button-start {
+        padding-top: 80px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .border-button {
+        width: 200px;
+        height: 43px;
+        border-radius: 20px;
+        background-color: rgb(2, 199, 107);
+        border: 2px solid rgb(2, 199, 107);
+    }
+
+    .text-copy {
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 130px;
+        color: #fff;
+    }
+}
+
+/* untuk hp cuy , jangan salaah dih */
+@media only screen and (max-width: 600px) {
+    .judul-ct {
+        font-size: 29px;
+        font-weight: 900;
+        color: #00b7ff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ria {
+        color: rgb(255, 251, 0);
+    }
+
+    .text-copy {
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 180px;
+        color: #fff;
+    }
+
+    .best-of h4 {
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 170px;
+        font-size: 22px;
+        font-weight: 600;
+    }
+
+    .button-start {
+        padding-top: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .best-of p {
+        color: #fff;
+        font-size: 12px;
+        font-weight: 800;
+        padding-top: 40px;
+        padding-left: 10px;
+    }
+
+    .container {
+        width: 100%;
+        height: 100vh;
+        background-image: url(../images/bgawal.jpg);
+        background-position: center;
+        background-size: cover;
+    }
+
+    .best-of {
+        font-size: 25px;
+        color: #fff;
+        font-weight: 700;
+
+    }
+
+    .text-copy {
+        font-size: 12px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 150px;
+        color: #fff;
+    }
+
+
+
+
+}

@@ -1,0 +1,47 @@
+.nama-post {
+    display: flex;
+    flex-direction: row;
+    gap: 12px;
+}
+
+.nama-post p {
+    font-size: 14px;
+    color: #413d3d;
+}
+
+.gambarnya img {
+    width: 1200px;
+    height: 450px;
+
+}
+
+.text-awal {
+    padding-top: 25px;
+}
+
+.text-appleria {
+    font-size: 20px;
+    color: #3a3737;
+    font-weight: 700;
+}
+
+.named {
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(102, 100, 100);
+}
+
+.pt-submit {
+    padding-top: 15px;
+}
+
+.text-tengah {
+    padding-top: 25px;
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(102, 100, 100);
+}
+
+/* .text-end {
+    padding-top: 15px;
+} */

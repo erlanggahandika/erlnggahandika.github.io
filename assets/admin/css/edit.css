@@ -1,0 +1,286 @@
+.template-prof {
+    width: 730px;
+    height: 630px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px -1px rgb(185, 181, 181);
+    border-radius: 10px;
+    border-radius: 20px;
+}
+
+.pad-top {
+    padding-top: 30px;
+}
+
+.row-lg {
+    padding-left: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.pad-top input {
+    width: 240px;
+    height: 40px;
+    outline: none;
+    background-color: #e9e3e3;
+    border: none;
+    box-shadow: 0 4px 6px -1px rgb(235, 232, 232);
+    border-radius: 10px;
+}
+
+.pt-smt {
+    padding-top: 20px;
+}
+
+.yr-profil h4 {
+    font-size: 24px;
+    color: rgb(87, 83, 83);
+}
+
+.yr-profil {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 15px;
+}
+
+.tmpt-sos {
+    padding-right: 30px;
+}
+
+.tmplttnya {
+    width: 300px;
+    height: 530px;
+    background-color: #fff;
+    box-shadow: 0 4px 6px -1px rgb(185, 181, 181);
+    border-radius: 10px;
+    border-radius: 20px;
+}
+
+.form-prof {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 300px;
+}
+
+.garisnya {
+    width: 730px;
+    height: 1px;
+    background-color: rgb(182, 172, 172);
+}
+
+.garis-bawah {
+    padding-top: 15px;
+}
+
+.top-input {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.top-inputt {
+    padding-top: 15px;
+    padding-left: 30px;
+}
+
+.top-inputtt {
+    padding-top: 25px;
+    padding-left: 30px;
+}
+
+.top-input input {
+    width: 250px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #777272;
+}
+
+.top-inputt input {
+    width: 250px;
+    height: 40px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #777272;
+}
+
+.top-input input:hover {
+    width: 250px;
+    height: 40px;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 252, 252);
+    box-shadow: 0 4px 6px -1px rgb(235, 232, 232);
+    border-radius: 8px;
+}
+
+.row-lgi {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.logo-atuh {
+    padding-top: 8px;
+}
+
+.top-input h5 {
+    font-size: 18px;
+}
+
+.top-inputt h5 {
+    font-size: 18px;
+}
+
+.row-testt {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding-top: 10px;
+}
+
+.row-testting {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    padding-top: 25px;
+}
+
+.submit-type {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.submit-type input {
+    width: 300px;
+    height: 40px;
+    outline: none;
+    border: none;
+    background-color: rgb(25, 59, 255);
+    border-radius: 8px;
+}
+
+.submit-type input::placeholder {
+    color: #ffffff;
+}
+
+.pt-prf {
+    padding-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pt-prf h4 {
+    color: rgb(77, 73, 73);
+    font-size: 24;
+}
+
+.gris-profil {
+    padding-top: 15px;
+}
+
+.grispf {
+    width: 300px;
+    height: 1px;
+    background-color: #aca6a6;
+}
+
+.tpt-img img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.image-pt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 25px;
+    /* background-color: rgb(174, 172, 175); */
+}
+
+.pt-pws {
+    padding-top: 40px;
+    padding-left: 30px;
+}
+
+.pt-pws1 {
+    padding-top: 25px;
+    padding-left: 30px;
+}
+
+.text-pass {
+    padding-top: 9px;
+    padding-left: 10px;
+}
+
+.text-pass h4 {
+    font-size: 18px;
+    color: #646161;
+}
+
+.template-pws {
+    width: 250px;
+    height: 40px;
+    background-color: #f1e9e9;
+    border-radius: 20px;
+}
+
+.template-pws:hover {
+    width: 250px;
+    height: 40px;
+    background-color: #2eb8ee;
+    border-radius: 20px;
+    transition: all 3.0 ease-in-out;
+}
+
+.atur-icon {
+    padding-left: 6px;
+    padding-top: 5px;
+}
+
+.icon-tmplt {
+    width: 40px;
+    height: 40px;
+    background-color: #e2dcdc;
+    border-radius: 40%;
+}
+
+
+.icon-tmplt:hover {
+    width: 40px;
+    height: 40px;
+    background-color: #38cee9;
+    border-radius: 40%;
+}
+
+
+
+.row-pws {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.roww-ic {
+    padding-left: 85px;
+    padding-top: 7px;
+}
+
+.roww-ic1 {
+    padding-left: 120px;
+    padding-top: 7px;
+}
+
+.roww-ic2 {
+    padding-left: 101px;
+    padding-top: 7px;
+}
+
+.roww-ic3 {
+    padding-left: 131px;
+    padding-top: 7px;
+}
